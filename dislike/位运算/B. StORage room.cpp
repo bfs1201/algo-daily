@@ -1,3 +1,10 @@
+/*
+Create B. StORage room.cpp
+链接：https://codeforces.com/contest/1903/problem/B
+Codeforces Round 912 (Div. 2)
+位运算
+2023.12.01
+*/
 #include <iostream>
 #include <algorithm>
 #include <string>

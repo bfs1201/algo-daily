@@ -1,3 +1,7 @@
+/*
+贪心 数学规律
+2023.11.20
+*/
 #include <iostream>
 #include <cmath>
 #include <vector>

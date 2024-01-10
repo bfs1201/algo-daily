@@ -1,3 +1,7 @@
+/*
+位运算
+2023.12.02
+*/
 #include <bits/stdc++.h>
 using namespace std; 
 

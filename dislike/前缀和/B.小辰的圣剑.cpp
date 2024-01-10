@@ -1,3 +1,8 @@
+/*
+牛客小白月赛81：https://ac.nowcoder.com/acm/contest/69791/B
+前缀和
+2023.11.18
+*/
 #include <iostream>
 #include <vector>
 #include <algorithm>

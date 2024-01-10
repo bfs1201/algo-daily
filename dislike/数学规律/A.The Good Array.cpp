@@ -1,3 +1,7 @@
+/*
+数学规律
+2023.11.24补11.22
+*/
 #include <iostream>
 #include <vector>
 #include <algorithm>

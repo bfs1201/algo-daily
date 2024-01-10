@@ -1,3 +1,8 @@
+/*
+链接：https://codeforces.com/contest/1904
+枚举
+2023.12.13
+*/
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;

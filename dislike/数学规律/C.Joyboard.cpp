@@ -1,3 +1,7 @@
+/*
+数学规律
+2023.11.21
+*/
 #include <iostream>
 #include <cmath>
 #include <vector>

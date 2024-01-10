@@ -1,3 +1,8 @@
+/*
+标签：贪心，前缀和
+链接：https://codeforces.com/contest/1914
+2023.12.21
+*/
 #include <iostream>
 #include <algorithm>
 #include <string>
